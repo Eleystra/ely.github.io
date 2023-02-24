@@ -1,0 +1,51 @@
+
+nav
+{
+    background-color: brown;
+    width: 250;
+    height: 350;
+    margin-top: 230;
+    margin: 25px;
+    
+}
+
+li
+{
+    font-size: 25;
+    color: azure;
+}
+nav
+{
+  color: aqua;
+  float:left;
+}
+h1
+{
+ font-size: 45;
+}
+nav ul
+{
+    margin: 0px;
+    height: 65px;
+    list-style-type: none;
+   
+
+}
+nav ul li 
+{ 
+    float: left;
+    border-left: 10px;
+}
+nav ul li a
+{
+    width: 107px;
+    font-family:Cambria;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 30px;
+    color: rgb(44, 66, 190);
+    padding-left: 5px;
+    border-left: 5px solid #0024f3;
+    display: block;
+}
+

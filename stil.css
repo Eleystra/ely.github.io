@@ -1,0 +1,49 @@
+body{
+    background-image: url(ZNQ.png);
+    background-repeat: repeat-x;
+    color: #0024f3;
+    font-size: 25;
+    
+}
+nav ul
+{
+    margin: 0px;
+    height: 65px;
+    list-style-type: none;
+   
+
+}
+nav ul li 
+{ 
+    float: left;
+    border-left: 10px;
+}
+nav ul li a
+{
+    width: 107px;
+    font-family:Cambria;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 30px;
+    color: rgb(44, 66, 190);
+    padding-left: 5px;
+    border-left: 5px solid #0024f3;
+    display: block;
+}
+
+h1
+{color: red;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+p
+{
+color: #0e0c0c;
+font-size: 15;
+}
+#renk
+{ color: #0024f3;}
+
+
+
+
